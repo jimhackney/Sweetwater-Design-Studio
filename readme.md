@@ -1,0 +1,1 @@
+A simple, responsive graphic design business website created with HTML5 and CSS
